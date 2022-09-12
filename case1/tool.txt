@@ -1,0 +1,18 @@
+untuk pembuatan Aplikasi ini saya akan menggnakan technologi sebagai berikut
+1. Swagger Open API 
+   untuk merancang end point yang akan digunakan, sebagai kontrak project jika bekerja sama dengan team frontend
+2. Golang Echo Framework
+	Golang adalah bahasa turunan dari c sehingga sudah terjamin dalam kecepatannya
+	saya menggunakan echo framework golang karena dokumentasi yang banyak dan mudah untuk dipahami..
+3. Clean Architectures
+	dengan konsep clean architecture membuat code memiliki standar yang tinggi, code menjadi independent sehingga mudah untuk pengembangan
+4. Unit Testing
+	clean architecture juga membuat  unit testing menjadi lebih mudah
+	saya menggunakan mockery vectra untuk unit testing
+5. Github Trunk Base Development
+	menggunakan github untuk memudahkan kolaborasi untuk menulis code, code review, dan memudahkan pengembangan
+6. Scrum menggunakan Trello
+	Scrum memudahkan saya untuk menentukan apa saja fitur yang akan dibuat dan kapan target penyelesaiannya
+7. Docker
+	dengan docker saya bisa menjalankan kodingan saya dan berbagi dengan orang lain tanpa perlu error karena evironment yang berbeda-beda
+	saya hanya perlu membuat container dan menjalankan ke server
